@@ -1,5 +1,4 @@
-### 📫 Check me out at: www.danielrstafford.com
-
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/268px-LinkedIn_Logo_2013.svg.png)](https://www.linkedin.com/in/danielrstafford/)
 
 <!--
 **daniel-stafford/daniel-stafford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
